@@ -3,13 +3,14 @@ package main
 import "fmt"
 
 func main() {
-	var numeros [6]string
+	var numeros [7]string
 	numeros[0] = "zero"
 	numeros[1] = "um"
 	numeros[2] = "dois"
 	numeros[3] = "três"
 	numeros[4] = "quatro"
 	numeros[5] = "cinco"
+	numeros[6] = "seis"
 
 	fmt.Printf("o tipo é: %T\n", numeros)
 	fmt.Println(numeros)
