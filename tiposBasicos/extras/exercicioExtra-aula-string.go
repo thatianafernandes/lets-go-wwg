@@ -1,5 +1,6 @@
 //declare duas variaves do tipo string, uma vai receber seu nome e outra sua cor preferida
 //printe na tela uma frase usando os dois valres usando o fmt.Print e o especificador de formato %s
+//usando uma linha por variável, demonstre o valor e o tipo de cada uma delas
 
 package main
 
